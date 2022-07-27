@@ -1,5 +1,5 @@
 # Awesome Pkgdown Websites [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of awesome READMEs
+> A curated list of awesome `pkgdown` websites
 
 `pkgdown` generated websites support R packages.  A `pkgdown` website contains a home page generated from a README, references from functions, a change log and often a hexagon-shaped icon.  Many package authors spend a great deal of effort to create attractive documentation.  
 
